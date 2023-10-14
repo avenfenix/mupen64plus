@@ -5,6 +5,8 @@ sudo apt-get install -y git
 sudo apt-get install -y freeglut3-dev and libglew-dev 
 git clone https://github.com/mupen64plus/mupen64plus-core
 
+
+
 cd mupen64plus-core
 cd projects/unix
 make all
